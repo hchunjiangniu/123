@@ -18,7 +18,6 @@
     [super viewDidLoad];
     
     NSLog(@"上传git");
-    NSLog(@"123");
 }
 
 
